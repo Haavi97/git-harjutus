@@ -4,8 +4,8 @@ See on MATIK-i ühisloengu harjutusrepo. Siin ei saa midagi katki teha — just 
 
 ## Kes siin töötab?
 
-- Nimi:
-- Projektigrupp:
+- Nimi: Javier Ortin
+- Projektigrupp: MATIK
 
 ## Mis siin on?
 
