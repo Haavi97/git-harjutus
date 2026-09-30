@@ -7,6 +7,8 @@ See on MATIK-i ühisloengu harjutusrepo. Siin ei saa midagi katki teha — just 
 - Nimi: Javier Ortin
 - Projektigrupp: MATIK
 
+## Teine näidis pealkir
+
 ## Mis siin on?
 
 | Fail | Mis see on |
